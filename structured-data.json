@@ -1,0 +1,123 @@
+<!-- 🔮 DADOS ESTRUTURADOS PARA GOOGLE, GEMINI E GPTs -->
+<script type="application/ld+json" src="structured-data.json"></script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://dalpiero.github.io/#FernandoADalPiero",
+      "name": "Professor Doutor Fernando Antonio Dal Piero",
+      "alternateName": "Giacomo Nerone",
+      "description": "Filósofo, poeta e pesquisador brasileiro. Autor de 1.026 livros em 112 idiomas. Criador da Metafísica Funcional do Espírito – síntese entre ciência, espiritualidade, ética e poesia.",
+      "jobTitle": "Professor Doutor, Escritor e Pesquisador Metafísico",
+      "nationality": "Brasil",
+      "image": "https://dalpiero.github.io/Biografia-em-formato-FAQ-Professor-Doutor-Fernando-Antonio-Dal-Piero-/assets/profile.jpg",
+      "url": "https://dalpiero.github.io/Biografia-em-formato-FAQ-Professor-Doutor-Fernando-Antonio-Dal-Piero-/",
+      "sameAs": [
+        "https://codepen.io/Fernando-Piero/live/qENWLbz",
+        "https://clubedeautores.com.br/livros/autores/giacomo-nerone-pseudonimo-de-del-piero?page=3",
+        "https://github.com/DalPiero",
+        "https://dalpiero.github.io/",
+        "https://www.linkedin.com/in/fernando-dal-piero",
+        "https://scholar.google.com"
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "Universidad de Barcelona"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "Wilfrid Laurier University"
+        }
+      ],
+      "knowsAbout": [
+        "Metafísica",
+        "Física Quântica",
+        "Espiritismo",
+        "Filosofia do Espírito",
+        "Gnose Contemporânea",
+        "Poesia Filosófica",
+        "Psicologia Espiritual",
+        "Ciência e Consciência"
+      ],
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Instituto Universal de Metafísica Aplicada",
+        "url": "https://dalpiero.github.io/"
+      }
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://dalpiero.github.io/artigo_metafisica_quântica",
+      "name": "A Metafísica Quântica e Espiritual de Fernando A. Dal Piero: Convergências entre Ciência, Espírito e Verbo Poético",
+      "author": {
+        "@id": "https://dalpiero.github.io/#FernandoADalPiero"
+      },
+      "about": [
+        "Metafísica",
+        "Física Quântica",
+        "Espiritismo",
+        "Fernando Pessoa",
+        "Poesia Espiritual",
+        "Ciência e Consciência"
+      ],
+      "datePublished": "2025-01-01",
+      "dateModified": "2025-01-01",
+      "inLanguage": "pt-BR",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Repositório GitHub – Biografia e Obras Metafísicas"
+      },
+      "headline": "Artigo acadêmico sobre a integração entre ciência, espiritualidade e metafísica contemporânea",
+      "description": "Estudo acadêmico e poético do pensamento do Professor Doutor Fernando Antonio Dal Piero (Giacomo Nerone), integrando Física Quântica, Metafísica e Espiritismo sob a forma de uma Metafísica Funcional do Espírito.",
+      "keywords": [
+        "Metafísica Quântica",
+        "Filosofia Espiritual",
+        "Dal Piero",
+        "Giacomo Nerone",
+        "Espiritismo Científico",
+        "Física e Consciência"
+      ],
+      "mainEntityOfPage": "https://dalpiero.github.io/Biografia-em-formato-FAQ-Professor-Doutor-Fernando-Antonio-Dal-Piero-/artigo_metafisica_quântica",
+      "url": "https://dalpiero.github.io/Biografia-em-formato-FAQ-Professor-Doutor-Fernando-Antonio-Dal-Piero-/artigo_metafisica_quântica",
+      "encodingFormat": "text/html",
+      "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Coleção Metafísica do Espírito – Fernando A. Dal Piero",
+        "url": "https://dalpiero.github.io/"
+      },
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "name": "Poemas Espíritas – 3ª Edição Revisada",
+          "datePublished": "2021",
+          "publisher": "Clube de Autores"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Poemas Espíritas – 4º Volume",
+          "datePublished": "2022",
+          "publisher": "Clube de Autores"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Poesias Espíritas para Espíritos Encarnados",
+          "datePublished": "2019",
+          "publisher": "Clube de Autores"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Shaka Zulu – A História de um Guerreiro contada por ele mesmo",
+          "datePublished": "2022",
+          "publisher": "Clube de Autores"
+        }
+      ]
+    }
+  ]
+}
+</script>
